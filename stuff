@@ -1,0 +1,557 @@
+[33mcommit bdd0d3fada5e12fc4b88b2bd41ab50cd2ae205df[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 14:07:15 2018 -0700
+
+    changed font size
+
+[33mcommit 9d945eb7682285992efb7e8ed5cd6a2f4c75baba[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 14:05:07 2018 -0700
+
+    same
+
+[33mcommit 54d5387a850e24a94c8c707d24e147773ffe8c77[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 14:03:34 2018 -0700
+
+    fixing hypelinks
+
+[33mcommit d8f07ed66c7654b7c6217799a33ced57cbeb1512[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 14:01:40 2018 -0700
+
+    fixed links
+
+[33mcommit 2a25805ee9f3c05154b2944a8a97a86a15ce5796[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 13:58:29 2018 -0700
+
+    hyperlink titles
+
+[33mcommit bbe006aea0b164eb0cf71fe628ba112bf3331fe1[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 13:55:53 2018 -0700
+
+    hbyperlinks
+
+[33mcommit 63707028439936e784c7cdb26c82393f6e680d23[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 13:53:31 2018 -0700
+
+    adding reference
+
+[33mcommit 417e47b70daf2dcfa6e5c28da2f2bf5661d7ce87[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 13:51:46 2018 -0700
+
+    hyper links
+
+[33mcommit d1c99bfdb7cabdf8b9beb1c5c6b7388beee6bfda[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 13:49:23 2018 -0700
+
+    adding hyper links
+
+[33mcommit 0b2ca1ce99f33219aaa48f16a1354a7d49175c05[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 13:39:37 2018 -0700
+
+    hyperlink hopefully
+
+[33mcommit 8007a3caeade9eaa7874b5f320cbf5294b81433d[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 13:12:12 2018 -0700
+
+    stuff
+
+[33mcommit 30a5acbd26f0f9e78a0b43e5a2582034bb2668ab[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 13:09:07 2018 -0700
+
+    makin columns
+
+[33mcommit 566d042a9fbe45878b6203fca03f5599d8afe547[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 13:05:11 2018 -0700
+
+    makin stuff
+
+[33mcommit eacd323dd42ba95892277060d5e48483a7c692a8[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 13:02:18 2018 -0700
+
+    column color
+
+[33mcommit 49368192733feaa86bc73dd649a015088356eca4[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 12:58:42 2018 -0700
+
+    more columns
+
+[33mcommit d6a22fd7e8f1bdb8cedccc2d286e7fbe91c03802[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 12:57:30 2018 -0700
+
+    removed excess projects
+
+[33mcommit 5e2b3d7226eeccc234a283fd5484f0ba720dce55[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 12:52:08 2018 -0700
+
+    columns
+
+[33mcommit 8ceaf4e699c3ffda76e37ca8b9c34a39afb94822[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 12:48:42 2018 -0700
+
+    added columns
+
+[33mcommit 4fc399788147cf034f6e989fb229b632b3869f11[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 12:42:17 2018 -0700
+
+    left align hopefully
+
+[33mcommit 7f39f8bbde313d622b3f5b1b9342b38394f14d18[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Aug 18 11:23:33 2018 -0700
+
+    did some stuff
+
+[33mcommit 6f0db8c26987c7093c6b16c259b87017b5de13b9[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 23:00:44 2018 -0700
+
+    changed stuff
+
+[33mcommit eef3d2c707413dfec43023a62c72fb67a60491a1[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 22:32:19 2018 -0700
+
+    formatting a line lmap
+
+[33mcommit 57ac5cf68d4dfec5551fce661966f2525e2c3bac[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 22:28:40 2018 -0700
+
+    making stuff happend
+
+[33mcommit 5771923ed5d7a2601a0d2074626ecf08cc413fb3[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 22:22:46 2018 -0700
+
+    stuff
+
+[33mcommit 82ad39fa9eb9a7b7b213daf9905ef48a67eed93d[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 22:16:43 2018 -0700
+
+    tryin to make columns for course work
+
+[33mcommit 7324ee5142c2dd9400d64dcb36bcef0488c1cda4[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 22:03:34 2018 -0700
+
+    blah
+
+[33mcommit 69b9081e2fef55558071ba789635a4ea2658bcd3[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 22:01:39 2018 -0700
+
+    idk
+
+[33mcommit e2f9fe9d8b658963ce6944a1447825bc4f54aee6[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 21:57:02 2018 -0700
+
+    doin stuff
+
+[33mcommit 5cfe46f766faf45d88feea789101c5a2bc5a6698[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 21:54:06 2018 -0700
+
+    changed the buttons
+
+[33mcommit 67af86f1f2cc0482aca815d901468513e50e3563[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 21:52:14 2018 -0700
+
+    tryin to center this ish
+
+[33mcommit 275434a410af8dda8bae68a34234046b77b2f46e[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 21:39:51 2018 -0700
+
+    tryin stuff here
+
+[33mcommit 9133a4ada7cfcb8eaa0445995122445c8910c65f[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 21:37:25 2018 -0700
+
+    still wroking onint
+
+[33mcommit 6090ba1a143f51726ca770ddf1b18b83808fa9c3[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 21:33:37 2018 -0700
+
+    making top like bottom bar
+
+[33mcommit d82ca02c33d6495a24fea0f5e1bb5716d0a25169[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 21:29:57 2018 -0700
+
+    reverting
+
+[33mcommit f137ae8aa413c146b940997e736f4684d02558f5[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 21:26:20 2018 -0700
+
+    same
+
+[33mcommit aa3a64c6b32705305a1bbf409005d02b5a43a20b[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 21:17:12 2018 -0700
+
+    tryin to fix scaling with zooming
+
+[33mcommit ac2439484ae39648a85cba757d36ad107c6bb081[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 20:57:36 2018 -0700
+
+    changed the button and verified the link
+
+[33mcommit 4997db6874dc7a92a098a1cf1f1496f3809ac7e9[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Wed Jul 11 20:50:51 2018 -0700
+
+    linked the youtube vid of the game
+
+[33mcommit 3cdee9fc45567f073ec996ca8b28a85c24a4ca4b[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Tue Jun 19 22:30:51 2018 -0700
+
+    formatting titles
+
+[33mcommit 963b102dc2540e68986f5bde2b6886ab70457d5c[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Tue Jun 19 22:24:43 2018 -0700
+
+    changed some formatting stuff
+
+[33mcommit c6ffba6ab88d3ded6c8c77b04b2bc90ad980e25c[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Mon May 28 00:14:24 2018 -0700
+
+    checking stuff out
+
+[33mcommit 8ea08114363ff22bedf0bc7985043eaa0940c525[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 21:02:58 2018 -0700
+
+    more stuff
+
+[33mcommit 2e8ba82d042765a61cf6c2df6f98c3d03dc365fa[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 20:58:44 2018 -0700
+
+    asdf
+
+[33mcommit 91ff85eb5e576a3782886f672fce67a46a213eb0[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 20:50:32 2018 -0700
+
+    more stuff with that pdf
+
+[33mcommit e3b520f927c94541211ef3d63982e714194aa8b2[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 20:31:42 2018 -0700
+
+    chaning stuff about text, no more hiding
+
+[33mcommit b7fddd1d82af210a74dfadde078a2697517af4d5[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 20:27:38 2018 -0700
+
+    changin pdf
+
+[33mcommit 001a688a9b4087f0aa2964c8b573cbcda928b082[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 20:22:00 2018 -0700
+
+    more stuff
+
+[33mcommit 6fa30d93b54cfbd1675e432b49d6cb703af67ae2[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 20:18:05 2018 -0700
+
+    more stuff with the links
+
+[33mcommit b26d5dea3f3d965e91e55eb60e77a8d34f201753[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 19:59:13 2018 -0700
+
+    doin more stuff with links
+
+[33mcommit ef3d6400ba06ef860931863aa6f705a89f353fe3[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 19:57:01 2018 -0700
+
+    doing stuff with the button/link
+
+[33mcommit 3e1566cdb0a06d615aa8add62e73d11836213e31[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 19:52:19 2018 -0700
+
+    adding link again
+
+[33mcommit 653461385c1990e8be94762592638e012427bb14[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 19:50:07 2018 -0700
+
+    making a link
+
+[33mcommit 5268ad72c3ee900081b6a10c140712a2bbdeaca5[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 19:26:28 2018 -0700
+
+    adding link:
+
+[33mcommit 908c6ea6c188a1a61318aea6e5d528f80121a643[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 19:24:06 2018 -0700
+
+    added link
+
+[33mcommit 9f57dec88dcf1ac04683b656d0a329f5c25eb1e1[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 19:14:26 2018 -0700
+
+    doin stuff, added the byog
+
+[33mcommit 3f1ce2f6d412fbe3db0f0c58e6cedf050d672df6[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 18:49:29 2018 -0700
+
+    blah changed to JPG
+
+[33mcommit 73bf855230333f6865d75a822ef2adad9aa22b21[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 18:47:17 2018 -0700
+
+    trying to add bearmaps pic
+
+[33mcommit c2f825e0973b7431c5ce43ec196e6632b81d6045[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 18:45:29 2018 -0700
+
+    asdf
+
+[33mcommit f72b476292d35e6f53e8fd6261b762261e36f15e[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 18:42:00 2018 -0700
+
+    asdf
+
+[33mcommit 9603776a6702c1014ac1f27cd496d1d1fab87908[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 18:39:34 2018 -0700
+
+    df
+
+[33mcommit 1c5ad0759f0a44a87809cb8f610f4adbb624d688[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 18:38:15 2018 -0700
+
+    still adding project pic
+
+[33mcommit 2e579cdcfd0188e5aed0cca720f56c8f60fb3d02[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 18:35:58 2018 -0700
+
+    adding pic
+
+[33mcommit db9d231ca98ec45450f3a8c0f78a108abfd9c0b6[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 18:32:54 2018 -0700
+
+    doin stuff with the projects
+
+[33mcommit e52aa996be188f63614a727810bc59d2e162a71f[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 18:14:10 2018 -0700
+
+    changed some stuff
+
+[33mcommit af7f53e46cd0b79e46f8e58ec0aa0d90440c5455[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 18:12:44 2018 -0700
+
+    changed pic
+
+[33mcommit aaf7fe099d7753bffec4b7ee5eed9adf935eaa95[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 18:04:55 2018 -0700
+
+    trying to add projhects
+
+[33mcommit 74fb8c76f9e949ffea36567d3f85ca03f9936540[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 17:34:54 2018 -0700
+
+    changed about title size
+
+[33mcommit 0504f9b3add7f94481bbcca176eea5b137072246[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 17:33:29 2018 -0700
+
+    hopefully added shortcut button for projects
+
+[33mcommit c86aa314ff6f58b1c038b2f00d1ecad2b1644526[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 17:30:42 2018 -0700
+
+    changed size of something
+
+[33mcommit cc28ec21cf1990091aef4fa1866f6450c97e490c[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 17:27:14 2018 -0700
+
+    changed font size, deleted unused parts, rearranged header
+
+[33mcommit ab4e17cf56515cee1518dccb7e8ee9dc780303b8[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 17:09:57 2018 -0700
+
+    took out some stuff
+
+[33mcommit 268ea0a011220e26f97c5eb78f1d25db6fdfc153[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sun May 27 16:45:21 2018 -0700
+
+    new profile pic
+
+[33mcommit 5716c1d66c82b32c67c4c5a0367ebbfcb4229ad7[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Tue Mar 27 19:00:21 2018 -0700
+
+    sf
+
+[33mcommit 4dc4914ebbb5639caa095be23b1411cabec37762[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Mar 24 00:36:08 2018 -0700
+
+    asdfd
+
+[33mcommit b2bbd486605d520788c6dcb7964c1f8cc23aa296[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Mar 24 00:34:18 2018 -0700
+
+    asl;fj
+
+[33mcommit fbc02c1ca03cb145e54952a8adaf765a8120b7b9[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Mar 24 00:30:06 2018 -0700
+
+    asdf
+
+[33mcommit a7e5fbdc7467bc0a2d3a0fe9f9501ef9421ad61b[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Mar 24 00:28:47 2018 -0700
+
+    asdf
+
+[33mcommit 1b58a92a8d9d85ae3b00c826f997fd9c8554058d[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Mar 24 00:27:13 2018 -0700
+
+    doin stuff with text lol
+
+[33mcommit f65ea5e4e63d0b4f6120c2b1f8a04076474b35aa[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Mar 24 00:24:58 2018 -0700
+
+    as;ldfj
+
+[33mcommit c576823097faf0e6ae163324b395558860972003[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Mar 24 00:23:05 2018 -0700
+
+    asdlkfj
+
+[33mcommit 48604d96e43ede471dd6f3ce7426466b08eb8846[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Mar 24 00:16:06 2018 -0700
+
+    laskdjf
+
+[33mcommit 44434519a04fffa33a98861d163358da723831af[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Mar 24 00:04:56 2018 -0700
+
+    stuff
+
+[33mcommit 97511bffa057ef9ad212d45d62da4e219038c082[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Mar 24 00:02:56 2018 -0700
+
+    took out the My name
+
+[33mcommit 399e667b4fb892cd6b9c293a648aacbf6379c005[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Sat Mar 24 00:01:30 2018 -0700
+
+    blach
+
+[33mcommit 29c5da53be6d658b718a9f19c70196d514b06bd7[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Fri Mar 23 23:58:57 2018 -0700
+
+    top pic black hole
+
+[33mcommit 45f20f3b897fd1785805a0a1382992d03931b7a4[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Fri Mar 23 23:48:39 2018 -0700
+
+    changed picture
+
+[33mcommit d5071fa8d081a12fa804ee9df5516d6006101482[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Fri Mar 23 23:37:36 2018 -0700
+
+    changed the bio
+
+[33mcommit 6516df0bb1f5043d77e94e7959ae253b028b7523[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Fri Mar 23 23:13:05 2018 -0700
+
+    took out some text
+
+[33mcommit 3f087529c0be060d1eec063a2362a6e45460d4bc[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Fri Mar 23 00:07:13 2018 -0700
+
+    adding about section
+
+[33mcommit e1c6ce1eb2ada072ee6ab2456b3156b53d30025a[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Thu Mar 22 23:57:02 2018 -0700
+
+    text test
+
+[33mcommit 2ba7644e0d22a04cc47e9cd67f0086328ea479d0[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Thu Mar 22 23:55:10 2018 -0700
+
+    added pic
+
+[33mcommit 9cc7b7c458496b018616404657cfd99320e8cd87[m
+Author: unknown <brent5@berkeley.edu>
+Date:   Thu Mar 22 23:51:47 2018 -0700
+
+    initial commit: website: the coolest
+
+[33mcommit 8fd03d90f52fbd2768c069477da7f83b78c977b9[m
+Author: brentsienko <35483030+brentsienko@users.noreply.github.com>
+Date:   Thu Mar 22 23:46:30 2018 -0700
+
+    Initial commit
